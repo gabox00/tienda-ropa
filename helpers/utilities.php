@@ -25,7 +25,7 @@ class Utilities{
                 return FALSE;            
         }
         else {
-            return FALSE;; 
+            return FALSE; 
         }
     }
     
